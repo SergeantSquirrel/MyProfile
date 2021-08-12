@@ -6,4 +6,6 @@ The other source that needs referencing is in my "project.html" code for the gra
 
 As I have several different pages for my site, I decided that on a couple of them I would try and experiment with other designs to spice them up a bit!_
 
-For the most part this all went well except in the "interest" tab, the "Homepage" button does not work as I believe there were div's blocking the link, I could not fix this on my own so I apologise!_
+For the most part this all went well except in the "interest" tab, the "Homepage" button does not work as I believe there were div's blocking the link, I could not fix this on my own so I apologise!_ UPDATE:! <br />
+
+Everything seems to work except for the 'interest' tab. I have tried for hours to troubleshoot however I am having no luck at all. i have attached a screenshot called 'proof' to my images folder as a guide to what it looks like, Unfortunately it just wont work for me and i do not have the knowledge to fix it.
