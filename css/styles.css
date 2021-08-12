@@ -23,22 +23,25 @@ header {
 }
 
 .intro {
-    width: 500px;
     margin: 100px auto;
     text-align: center;
 }
 
-.my-skills {
+.my-layout {
     background-color: #1D3C41;
     color: #fff;
-    padding: 75px 0;
-    text-align: center;
+    padding: 75px 500px;
 }
 
 .columns {
+  text-align: center;
     display: flex;
 }
 
 .column {
-    margin: 0 10px;
+    margin: 0 5px;
+}
+a {
+  color:#fff;
+  text-decoration: none;
 }
