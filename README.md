@@ -8,4 +8,4 @@ As I have several different pages for my site, I decided that on a couple of the
 
 For the most part this all went well except in the "interest" tab, the "Homepage" button does not work as I believe there were div's blocking the link, I could not fix this on my own so I apologise!_ UPDATE:! <br />
 
-Everything seems to work except for the 'interest' tab. I have tried for hours to troubleshoot however I am having no luck at all. i have attached a screenshot called 'proof' to my images folder as a guide to what it looks like, Unfortunately it just wont work for me and i do not have the knowledge to fix it.
+There are a few commits after the due date which Anthony knows about, we went through my github during a tute and he told me how to fix my error and to go in and fix it. 
